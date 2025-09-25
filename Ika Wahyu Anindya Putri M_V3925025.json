@@ -1,0 +1,663 @@
+{
+"Pengumpulan data dengan wawancara pengguna aplikasi": [
+  {
+    "id_orang" : 1000,
+    "nama_orang" : "Udin",
+    "pengalaman_penggunaan_discord" : "1 tahun",
+    "pertanyaan" : "Bagaimana pengalaman anda mengakses aplikasi discord?",
+    "jawaban" : "aplikasi mudah dalam pengunduhan dan penggunaannya"
+  },
+  {
+    "id_orang" : 1001,
+    "nama_orang" : "Sari",
+    "pengalaman_penggunaan_discord" : "1 tahun 1 bulan",
+    "pertanyaan" : "Bagaimana menurut anda tampilan interface discord?",
+    "jawaban" : "Sederhana namun membutuhkan adaptasi di awal"
+  },
+  {
+    "id_orang" : 1002,
+    "nama_orang" : "Eti",
+    "pengalaman_penggunaan_discord" : "1 tahun 2 bulan",
+    "pertanyaan" : "Bagaimana kualitas fitur voice chat di discord?",
+    "jawaban" : "Sangat membantu koordinasi tim saat melakukan kegiatan bersama"
+  },
+  {
+    "id_orang" : 1003,
+    "nama_orang" : "Rati",
+    "pengalaman_penggunaan_discord" : "1 tahun 3 bulan",
+    "pertanyaan" : "Bagaimana kualitas audio saat menggunakan voice chat?",
+    "jawaban" : "Lebih jernih dibanding beberapa platform lain"
+  },
+  {
+    "id_orang" : 1004,
+    "nama_orang" : "Tio",
+    "pengalaman_penggunaan_discord" : "1 tahun 4 bulan",
+    "pertanyaan" : "Apakah aplikasi discord nyaman dan stabil digunakan?",
+    "jawaban" : "Stabil, jaringan ada gangguan yang mengganggu, meski terkadang delay"
+  },
+  {
+    "id_orang" : 1005,
+    "nama_orang" : "Eko",
+    "pengalaman_penggunaan_discord" : "1 tahun 5 bulan",
+    "pertanyaan" : "Bagaimana pendapat anda tentang fitur manajemen role di suatu server?",
+    "jawaban" : "Memudahkan pengaturan dan pembagian anggota dalam komunitas besar"
+  },
+  {
+    "id_orang" : 1006,
+    "nama_orang" : "Oshi",
+    "pengalaman_penggunaan_discord" : "1 tahun 6 bulan",
+    "pertanyaan" : "Bagaimana keamanan akun di discord?",
+    "jawaban" : "Disarankan menggunakan autentikasi dua faktor"
+  },
+  {
+    "id_orang" : 1007,
+    "nama_orang" : "Tri",
+    "pengalaman_penggunaan_discord" : "1 tahun 7 bulan",
+    "pertanyaan" : "Bagaimana pengalaman anda dengan notifikasi discord?",
+    "jawaban" : "Real-time, tapi terkadang terjadi spam notifikasi"
+  },
+  {
+    "id_orang" : 1008,
+    "nama_orang" : "Anik",
+    "pengalaman_penggunaan_discord" : "1 tahun 8 bulan",
+    "pertanyaan" : "Bagaimana integrasi discord dengan aplikasi lain?",
+    "jawaban" : "mudah di hubungkan dengan spotify, youtube, twitch, dan aplikasi lain yang mendukung"
+  },
+  {
+    "id_orang" : 1009,
+    "nama_orang" : "Ogi",
+    "pengalaman_penggunaan_discord" : "1 tahun 9 bulan",
+    "pertanyaan" : "Apakah bot otomatisasi bermanfaat?",
+    "jawaban" : "Ya, sangat bermanfaat untuk moderasi dan manajemen event"
+  },
+  {
+    "id_orang" : 1010,
+    "nama_orang" : "Yoyo",
+    "pengalaman_penggunaan_discord" : "1 tahun 10 bulan",
+    "pertanyaan" : "Bagaimana pendapat anda soal batas ukuran upload file?",
+    "jawaban" : "Di versi gratis untuk upload file sangat terbatas, akhirnya banyak yang pakai Nitro untuk upload file dengan ukuran yang lebih besar"
+  },
+  {
+    "id_orang" : 1011,
+    "nama_orang" : "Pika",
+    "pengalaman_penggunaan_discord" : "1 tahun 11 bulan",
+    "pertanyaan" : "Bagaimana penilaian anda tentang layanan Nitro?",
+    "jawaban" : "Bermanfaat, tapi cukup mahal bagi beberapa pengguna"
+  },
+  {
+    "id_orang" : 1012,
+    "nama_orang" : "Ade",
+    "pengalaman_penggunaan_discord" : "2 tahun",
+    "pertanyaan" : "Apakah discord dipakai di komunitas belajar?",
+    "jawaban" : "Ya, banyak server untuk coding, Pendidikan, dan diskusi profesional"
+  },
+  {
+    "id_orang" : 1013,
+    "nama_orang" : "Leo",
+    "pengalaman_penggunaan_discord" : "2 tahun 1 bulan",
+    "pertanyaan" : "Bagaimana privasi ruang obrolan di discord?",
+    "jawaban" : "Lebih terjaga karna bisa dibuat server tertutup"
+  },
+  {
+    "id_orang" : 1014,
+    "nama_orang" : "Rio",
+    "pengalaman_penggunaan_discord" : "2 tahun 2 bulan",
+    "pertanyaan" : "Bagaimana fungsi channel teks menurut anda?",
+    "jawaban" : "Sangat membantu memisahkan topik diskusi"
+  },
+  {
+    "id_orang" : 1015,
+    "nama_orang" : "Miko",
+    "pengalaman_penggunaan_discord" : "2 tahun 3 bulan",
+    "pertanyaan" : "Bagaimana ketersediaan discord di berbagai perangkat?",
+    "jawaban" : "bisa di akses dari PC, HP, dan browser"
+  },
+  {
+    "id_orang" : 1016,
+    "nama_orang" : "Tika",
+    "pengalaman_penggunaan_discord" : "2 tahun 4 bulan",
+    "pertanyaan" : "Bagaimana konsumsi data saat menggunakan discord?",
+    "jawaban" : "Ringan untuk voice chat, tapi berat saat share screen"
+  },
+  {
+    "id_orang" : 1017,
+    "nama_orang" : "Wiwik",
+    "pengalaman_penggunaan_discord" : "2 tahun 5 bulan",
+    "pertanyaan" : "Bagaimana pengalaman anda dengan fitur screen sharing?",
+    "jawaban" : "Serin digunakan untuk presentasi kerja kelompok"
+  },
+  {
+    "id_orang" : 1018,
+    "nama_orang" : "Yadi",
+    "pengalaman_penggunaan_discord" : "2 tahun 6 bulan",
+    "pertanyaan" : "Apakah fitur moderator bermanfaat?",
+    "jawaban" : "Ya, sangat membantu menjaga aturan komunitas"
+  },
+  {
+    "id_orang" : 1019,
+    "nama_orang" : "Qie",
+    "pengalaman_penggunaan_discord" : "2 tahun 7 bulan",
+    "pertanyaan" : "Bagaimana pendapat anda tentang fitur event dan stage?",
+    "jawaban" : "Cocok untuk seminar atau diskusi publik"
+  },
+  {
+    "id_orang" : 1020,
+    "nama_orang" : "Fisa",
+    "pengalaman_penggunaan_discord" : "2 tahun 8 bulan",
+    "pertanyaan" : "Apakah penggunaan baru mudah beradaptasi dengan discord?",
+    "jawaban" : "Masih banyak yang bingung dengan penggunaan role dan permission"
+  },
+  {
+    "id_orang" : 1021,
+    "nama_orang" : "Ropu",
+    "pengalaman_penggunaan_discord" : "2 tahun 9 bulan",
+    "pertanyaan" : "Bagaimana penerapan discord jika dibandingkan dengan aplikasi komunikasi lainya?",
+    "jawaban" : "Lebih fleksibel dan lengkap"
+  },
+  {
+    "id_orang" : 1022,
+    "nama_orang" : "Runa",
+    "pengalaman_penggunaan_discord" : "2 tahun 10 bulan",
+    "pertanyaan" : "Bagaimana pendapat anda tentang update aplikasi discord?",
+    "jawaban" : "Rutin, tapi kadang menimbulkan bug kecil"
+  },
+  {
+    "id_orang" : 1023,
+    "nama_orang" : "Iron",
+    "pengalaman_penggunaan_discord" : "2 tahun 11 bulan",
+    "pertanyaan" : "Bagaimana pengalaman komunitas gaming di discord?",
+    "jawaban" : "Discord jadi pusat komunitas Utama gamer"
+  },
+  {
+    "id_orang" : 1024,
+    "nama_orang" : "Hika",
+    "pengalaman_penggunaan_discord" : "3 tahun",
+    "pertanyaan" : "Bagaimana potensi discord di masa depan menurut anda?",
+    "jawaban" : "Berpotensi jadi platform kerja jarak jauh, bukan hanya gaming"
+  }
+],
+
+"pengumpulan data penggunaan API untuk mengakses data": [
+  {
+    "id" : 1,
+    "nama_api" : "Get User",
+    "endpoint" : "GET /users/{user.id}",
+    "deskripsi" : "Mengambil informasi detail dari pengguna tertentu"
+  },
+  {
+    "id" : 2,
+    "nama_api" : "Get Current Bot User",
+    "endpoint" : "GET /users/@me",
+    "deskripsi" : "Mengambil informasi akun bot yang sedang digunakan"
+  },
+  {
+    "id" : 3,
+    "nama_api" : "List User Guild",
+    "endpoint" : "GET /users/@me/guild",
+    "deskripsi" : "Mengambil daftar server (guild) yang dimiliki atau diikuti oleh pengguna"
+  },
+  {
+    "id" : 4,
+    "nama_api" : "Get Guild",
+    "endpoint" : "GET /guilds/{guild.id}",
+    "deskripsi" : "Mengambil detail informasi dari sebuah server (guild)"
+  },
+  {
+    "id" : 5,
+    "nama_api" : "List Guild Members",
+    "endpoint" : "GET /guilds/{guild.id}/members",
+    "deskripsi" : "Mengambil daftar semua anggota dalam server"
+  },
+  {
+    "id" : 6,
+    "nama_api" : "Get Guild Member",
+    "endpoint" : "GET /guilds/{guild.id}/members/{user.id}",
+    "deskripsi" : "Mengambil detail data satu anggota tertentu dalam server"
+  },
+  {
+    "id" : 7,
+    "nama_api" : "Add Guild Member",
+    "endpoint" : "PUT /guilds/{guild.id}/members/{user.id}",
+    "deskripsi" : "Menambahkan anggota baru ke server dengan OAuth2"
+  },
+  {
+    "id" : 8,
+    "nama_api" : "Update Guild Member",
+    "endpoint" : "PATCH /guilds/{guild.id}/members/{user.id}",
+    "deskripsi" : "Mengubah data anggota, seperti role atau nickname"
+  },
+  {
+    "id" : 9,
+    "nama_api" : "Remove Guild Member",
+    "endpoint" : "Delete /guilds/{guild.id}/members/{user.id}",
+    "deskripsi" : "Mengeluarkan anggota dari server atau kick"
+  },
+  {
+    "id" : 10,
+    "nama_api" : "List Roles",
+    "endpoint" : "GET /guilds/{guild.id}/roles",
+    "deskripsi" : "Mengambil daftar role dalam sebuah server"
+  },
+  {
+    "id" : 11,
+    "nama_api" : "Create Role",
+    "endpoint" : "POST /guilds/{guild.id}/roles",
+    "deskripsi" : "Membuat role baru di server"
+  },
+  {
+    "id" : 12,
+    "nama_api" : "Update Role",
+    "endpoint" : "PATCH /guilds/{guild.id}/roles/{role.id}",
+    "deskripsi" : "Mengubah informasi role tertentu"
+  },
+  {
+    "id" : 13,
+    "nama_api" : "Delete Role",
+    "endpoint" : "DELETE /guilds/{guild.id}/roles/{role.id}",
+    "deskripsi" : "Menghapus role tertentu dari server"
+  },
+  {
+    "id" : 14,
+    "nama_api" : "List Channels",
+    "endpoint" : "DELETE /guilds/{guild.id}/roles/{role.id}",
+    "deskripsi" : "Mengambil daftar channel dalam server"
+  },
+  {
+    "id" : 15,
+    "nama_api" : "Create Channel",
+    "endpoint" : "POST /guilds/{guild.id}/channels",
+    "deskripsi" : "Membuat channel baru di server"
+  },
+  {
+    "id" : 16,
+    "nama_api" : "Update Channel",
+    "endpoint" : "PATCH /channels/{channel.id}",
+    "deskripsi" : "Mengubah informasi channel tertentu"
+  },
+  {
+    "id" : 17,
+    "nama_api" : "Delete Channel",
+    "endpoint" : "DELETE /channels/{channel.id}",
+    "deskripsi" : "Menghapus channel dari server"
+  },
+  {
+    "id" : 18,
+    "nama_api" : "List Messages",
+    "endpoint" : "GET /channels/{channel.id}/messages",
+    "deskripsi" : "Mengambil daftar pesan dalam sebuah channel"
+  },
+  {
+    "id" : 19,
+    "nama_api" : "Create Message",
+    "endpoint" : "POST /channels/{channel.id}/messages",
+    "deskripsi" : "Mengirim pesan teks baru ke channel"
+  },
+  {
+    "id" : 20,
+    "nama_api" : "Update Message",
+    "endpoint" : "PATCH /channels/{channel.id}/messages/{message.id}",
+    "deskripsi" : "Mengedit pesan tertentu dalam channel"
+  },
+  {
+    "id" : 21,
+    "nama_api" : "Delete Message",
+    "endpoint" : "PATCH /channels/{channel.id}/messages/{message.id}",
+    "deskripsi" : "Menghapus pesan tertentu dari channel"
+  },
+  {
+    "id" : 22,
+    "nama_api" : "List Message Reactions",
+    "endpoint" : "GET /channels/{channel.id}/messages/{message.id}/reactions",
+    "deskripsi" : "Mengambil daftar reaksi pada sebuah pesan"
+  },
+  {
+     "id" : 23,
+    "nama_api" : "Add Reaction",
+    "endpoint" : "PUT /channels/{channel.id}/messages/{message.id}/reactions/{emoji}/@me",
+    "deskripsi" : "Menambahkan reaksi (emoji) pada sebuah pesan"
+  },
+  {
+    "id" : 24,
+    "nama_api" : "Remove Reaction",
+    "endpoint" : "DELETE /channels/{channel.id}/messages/{message.id}/reactions/{emoji}/@me",
+    "deskripsi" : "Menghapus rekasi (emoji) yang sudah diberikan pada pesan"
+  },
+  {
+    "id" : 25,
+    "nama_api" : "Get Audit logs",
+    "endpoint" : "GET /guilds/{guild.id}/audit-logs",
+    "deskripsi" : "Mengambil catatan aktivitas server untuk monitoring dan analisis"
+  }
+],
+
+"pengumpulan data dengan observasi": [
+  {
+    "id" : 100,
+    "observasi" : "Proses login mudah menggunakan email, akun google, ata nomor telepon",
+    "waktu_observasi" : "01.00 20-09-2025",
+    "kategori" : "Login"
+  },
+  {
+    "id" : 101,
+    "observasi" : "Tampilan dashboard langsung menampilkan daftar server yang diikuti pengguna",
+    "waktu_observasi" : "02.00 19-09-2025",
+    "kategori" : "Navigasi"
+  },
+  {
+    "id" : 102,
+    "observasi" : "Ikon server ditampilkan vertical disisi kiri aplikasi untuk memudahkan navigasi",
+    "waktu_observasi" : "03.00 18-09-2025",
+    "kategori" : "UI/UX"
+  },
+  {
+    "id" : 103,
+    "observasi" : "Channel teks ditata rapi dengan topik berbeda pada setiap server",
+    "waktu_observasi" : "04.00 17-09-2025",
+    "kategori" : "Channel"
+  },
+  {
+    "id" : 104,
+    "observasi" : "Channel voice memungkinkan pengguna bergabung dengan satu klik",
+    "waktu_observasi" : "05.00 16-09-2025",
+    "kategori" : "Voice"
+  },
+  {
+    "id" : 105,
+    "observasi" : "Indikator mikrofon aktif terlihat saat pengguna berbicara di voice",
+    "waktu_observasi" : "06.00 15-09-2025",
+    "kategori" : "Voice"
+  },
+  {
+    "id" : 106,
+    "observasi" : "Fitur mute/deafen langsung tersedia di menu toolbar bawah",
+    "waktu_observasi" : "07.00 14-09-2025",
+    "kategori" : "Voice"
+  },
+  {
+    "id" : 107,
+    "observasi" : "Status online/offline pengguna terlihat jelas dengan indikator warna (hijau, kuning, merah, dan abu-abu)",
+    "waktu_observasi" : "08.00 13-09-2025",
+    "kategori" : "Status"
+  },
+  {
+    "id" : 108,
+    "observasi" : "Tampilan role/level terlihat pada daftar anggota server",
+    "waktu_observasi" : "09.00 12-09-2025",
+    "kategori" : "Role"
+  },
+  {
+    "id" : 109,
+    "observasi" : "Pesan dapat diberikan emoji reaction tanpa perlu mengetik ulang",
+    "waktu_observasi" : "10.00 11-09-2025",
+    "kategori" : "Pesan"
+  },
+  {
+    "id" : 110,
+    "observasi" : "Pesan dapat di pin agar tetap mudah diakses anggota server",
+    "waktu_observasi" : "11.00 10-09-2025",
+    "kategori" : "Pesan"
+  },
+  {
+    "id" : 111,
+    "observasi" : "Bot server aktif memberikan respon otomatis di channel tertentu",
+    "waktu_observasi" : "12.00 09-09-2025",
+    "kategori" : "Bot"
+  },
+  {
+    "id" : 112,
+    "observasi" : "Fitur mention memuat notifikasi langsung ke pengguna terkait",
+    "waktu_observasi" : "13.00 08-09-2025",
+    "kategori" : "Notifikasi"
+  },
+  {
+    "id" : 113,
+    "observasi" : "File sharing mendukung upload gambar, dokumen, atau link",
+    "waktu_observasi" : "14.00 07-09-2025",
+    "kategori" : "File sharing"
+  },
+  {
+    "id" : 114,
+    "observasi" : "Ukuran file upload gratis terbatas maksimal 25MB",
+    "waktu_observasi" : "15.00 06-09-2025",
+    "kategori" : "File sharing"
+  },
+  {
+    "id" : 115,
+    "observasi" : "Screen sharing berjalan lancer pada jaringan stabil",
+    "waktu_observasi" : "16.00 05-09-2025",
+    "kategori" : "Screen sharing"
+  },
+  {
+    "id" : 116,
+    "observasi" : "Video call bisa dilakukan dalam channel voice maupun DM pribadi",
+    "waktu_observasi" : "17.00 04-09-2025",
+    "kategori" : "Video"
+  },
+  {
+    "id" : 117,
+    "observasi" : "Pengguna dapat membuat event dengan jadwal tertentu pada server",
+    "waktu_observasi" : "18.00 03-09-2025",
+    "kategori" : "Event"
+  },
+  {
+    "id" : 118,
+    "observasi" : "Stage channel digunakan untuk diskusi public dengan format speaker-audience",
+    "waktu_observasi" : "19.00 02-09-2025",
+    "kategori" : "Stage"
+  },
+  {
+    "id" : 119,
+    "observasi" : "Pengaturan izin (permission) tiap channel dapat dibatasi berdasarkan role",
+    "waktu_observasi" : "20.00 01-09-2025",
+    "kategori" : "Permission"
+  },
+  {
+    "id" : 120,
+    "observasi" : "Moderator aktif menghapus pesan spam untuk menjaga ketertiban ",
+    "waktu_observasi" : "21.00 30-08-2025",
+    "kategori" : "Moderasi"
+  },
+  {
+    "id" : 121,
+    "observasi" : "Update notifikasi muncul otomatis ketika ada versi baru aplikasi",
+    "waktu_observasi" : "22.00 29-08-2025",
+    "kategori" : "Update"
+  },
+  {
+    "id" : 122,
+    "observasi" : "Fitur pencarian memudahkan menemukan pesan lama",
+    "waktu_observasi" : "23.00 28-08-2025",
+    "kategori" : "Pencarian"
+  },
+  {
+    "id" : 123,
+    "observasi" : "Integrasi dengan spotify menampilkan lagu yang sedang didengarkan pengguna",
+    "waktu_observasi" : "01.00 27-08-2025",
+    "kategori" : "Integrasi"
+  },
+  {
+    "id" : 124,
+    "observasi" : "Komunitas gaming sangat aktif, terlihat dari voice channel yang hampir selalu terisi",
+    "waktu_observasi" : "02.00 26-08-2025",
+    "kategori" : "Komunitas"
+  }
+],
+
+"pengumpulan data dengan studi dokumentasi": [
+  {
+    "id": 50,
+    "sumber": "Discord Changelog",
+    "deskripsi": "Fitur threads diperkenalkan pertama kali untuk diskusi panjang.",
+    "kategori": "Update",
+    "tahun": 2021
+  },
+  {
+    "id": 51,
+    "sumber": "Discord Developer Docs",
+    "deskripsi": "Menambahkan dukungan slash commands untuk bot.",
+    "kategori": "API",
+    "tahun": 2022
+  },
+  {
+    "id": 52,
+    "sumber": "Audit Log Server",
+    "deskripsi": "Pencatatan detail setiap penghapusan pesan oleh moderator.",
+    "kategori": "Moderasi",
+    "tahun": 2023
+  },
+  {
+    "id": 53,
+    "sumber": "Artikel Teknologi",
+    "deskripsi": "Discord mulai populer di kalangan perusahaan startup sebagai platform kerja.",
+    "kategori": "Komunitas",
+    "tahun": 2023
+  },
+  {
+    "id": 54,
+    "sumber": "Forum Discord Feedback",
+    "deskripsi": "Banyak permintaan untuk penambahan multiple profile.",
+    "kategori": "Permintaan Fitur",
+    "tahun": 2024
+  },
+  {
+    "id": 55,
+    "sumber": "Discord Changelog",
+    "deskripsi": "Fitur noise suppression untuk voice chat diluncurkan.",
+    "kategori": "Voice",
+    "tahun": 2020
+  },
+  {
+    "id": 56,
+    "sumber": "Artikel Akademik",
+    "deskripsi": "Discord digunakan dalam pembelajaran daring saat pandemi COVID-19.",
+    "kategori": "Edukasi",
+    "tahun": 2021
+  },
+  {
+    "id": 57,
+    "sumber": "Discord Docs",
+    "deskripsi": "Pembaruan sistem permissions untuk mencegah konflik role.",
+    "kategori": "Permission",
+    "tahun": 2022
+  },
+  {
+    "id": 58,
+    "sumber": "Reddit r/Discord",
+    "deskripsi": "Pengguna mengeluhkan keterbatasan upload file gratis 25MB.",
+    "kategori": "File Sharing",
+    "tahun": 2022
+  },
+  {
+    "id": 59,
+    "sumber": "Audit Log Server",
+    "deskripsi": "Laporan bulanan aktivitas bot dalam server.",
+    "kategori": "Bot",
+    "tahun": 2024
+  },
+  {
+    "id": 60,
+    "sumber": "Discord Changelog",
+    "deskripsi": "Pengenalan fitur stage channel untuk siaran audio.",
+    "kategori": "Stage",
+    "tahun": 2021
+  },
+  {
+    "id": 61,
+    "sumber": "Artikel Jurnal IT",
+    "deskripsi": "Discord efektif untuk koordinasi tim software development.",
+    "kategori": "Kolaborasi",
+    "tahun": 2022
+  },
+  {
+    "id": 62,
+    "sumber": "Changelog Nitro",
+    "deskripsi": "Upload file Nitro diperbesar menjadi 500MB.",
+    "kategori": "Nitro",
+    "tahun": 2024
+  },
+  {
+    "id": 63,
+    "sumber": "Discord Docs",
+    "deskripsi": "Integrasi Spotify diperbarui agar lebih stabil.",
+    "kategori": "Integrasi",
+    "tahun": 2022
+  },
+  {
+    "id": 64,
+    "sumber": "Forum Discord Feedback",
+    "deskripsi": "Masukan pengguna tentang dark mode fleksibel.",
+    "kategori": "UI/UX",
+    "tahun": 2023
+  },
+  {
+    "id": 65,
+    "sumber": "Artikel Berita",
+    "deskripsi": "Komunitas seni digital mulai beralih menggunakan Discord.",
+    "kategori": "Komunitas",
+    "tahun": 2024
+  },
+  {
+    "id": 66,
+    "sumber": "Discord Changelog",
+    "deskripsi": "Fitur forum channel ditambahkan untuk diskusi terstruktur.",
+    "kategori": "Channel",
+    "tahun": 2022
+  },
+  {
+    "id": 67,
+    "sumber": "Audit Log Server",
+    "deskripsi": "Catatan penghapusan massal 200 pesan spam.",
+    "kategori": "Moderasi",
+    "tahun": 2025
+  },
+  {
+    "id": 68,
+    "sumber": "Artikel Teknologi",
+    "deskripsi": "Discord berkembang menjadi platform komunikasi lintas industri.",
+    "kategori": "Komunitas",
+    "tahun": 2023
+  },
+  {
+    "id": 69,
+    "sumber": "Discord Developer Blog",
+    "deskripsi": "API diperbarui dengan dukungan query parameter tambahan.",
+    "kategori": "API",
+    "tahun": 2024
+  },
+  {
+    "id": 70,
+    "sumber": "Forum Discord Feedback",
+    "deskripsi": "Pengguna meminta integrasi dengan Google Drive.",
+    "kategori": "Integrasi",
+    "tahun": 2025
+  },
+  {
+    "id": 71,
+    "sumber": "Artikel Akademik",
+    "deskripsi": "Discord terbukti efektif untuk manajemen komunitas mahasiswa.",
+    "kategori": "Edukasi",
+    "tahun": 2023
+  },
+  {
+    "id": 72,
+    "sumber": "Reddit r/Discord",
+    "deskripsi": "Pujian untuk fitur auto-moderation AI.",
+    "kategori": "Moderasi",
+    "tahun": 2025
+  },
+  {
+    "id": 73,
+    "sumber": "Artikel Teknologi",
+    "deskripsi": "Prediksi Discord menjadi platform kerja jarak jauh di masa depan.",
+    "kategori": "Masa Depan",
+    "tahun": 2025
+  },
+  {
+    "id": 74,
+    "sumber": "Discord Changelog",
+    "deskripsi": "Fitur voice message resmi ditambahkan.",
+    "kategori": "Voice",
+    "tahun": 2023
+  }
+]
+}
